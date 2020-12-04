@@ -42,10 +42,7 @@ Web development | Competitive Programming | Open Source Contribution
 <a href="https://twitter.com/Ashutos35876003">
   <img align="left" alt="Ashutosh Khanduala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
-
-
-------------------------
+<br/>
 ------------------------
 
 **Visitors Count (Since December 2020)**  
