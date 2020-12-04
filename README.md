@@ -1,5 +1,9 @@
 # Hey there! I'm Ashutosh 👋
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/ashuvssut)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ashuvssut)
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=ashuvssut&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+
 ## About me 🧑
 
 I am an Electronics undergraduate student at Veer Surendra Sai University of Technology, Burla. I am a competitive programmer and I work on web development projects. I ❤ contributing to open source.
