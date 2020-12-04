@@ -2,7 +2,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/ashuvssut)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ashuvssut)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=ashuvssut&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<!-- <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ashuvssut&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/> -->
 
 ## About me 🧑
 
@@ -42,3 +42,8 @@ Web development | Competitive Programming | Open Source Contribution
 <a href="https://twitter.com/Ashutos35876003">
   <img align="left" alt="Ashutosh Khanduala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
+------------------------
+
+**Visitors Count (Since December 2020)**  
+![VisitorCount](https://profile-counter.glitch.me/{ashuvssut}/count.svg)
