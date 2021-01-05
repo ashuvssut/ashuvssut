@@ -8,28 +8,39 @@
 
 I am an Electronics undergraduate student at Veer Surendra Sai University of Technology, Burla. I am a competitive programmer and I work on web development projects. I ❤ contributing to open source.
 
-## Technical Skills
 
+<table style="text-align: center;">
+<tbody>
+	<tr>
+    	<td style="vertical-align:text-top;padding: 5px;">
+<h3>Technical Skills</h3>
+<hr>
 <!-- <img src="https://img.shields.io/badge/-React-%23212121?style=flat&logo=React">  -->
 <!-- <img src="https://img.shields.io/badge/-django-black?style=flat&logo=django">  -->
 <!-- <img src="https://img.shields.io/badge/-Firebase-black?style=flat&logo=Firebase">  <img src="https://img.shields.io/badge/-AWS-orange"> <br /> -->
 <!-- <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> -->
-<img src="https://img.shields.io/badge/-NodeJS-black?style=flat&logo=node.js"> <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongoDB"> <br />
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <br />
-<img src="https://img.shields.io/badge/-SASS-white?style=flat&logo=Sass"> <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> 
+<img src="https://img.shields.io/badge/-NodeJS-black?style=flat&amp;logo=node.js"> <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&amp;logo=mongoDB"> <br>
+<img src="https://img.shields.io/badge/-C%20&amp;%20C++-659ad2?style=flat&amp;logo=c%2B%2B&amp;logoColor=ffffff"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white"> <br>
+<img src="https://img.shields.io/badge/-SASS-white?style=flat&amp;logo=Sass"> <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> 
 <!-- <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br /> -->
-
-## My Interests
-
-Web development | Competitive Programming | Open Source Contribution
-
-## My Stats
-
-![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashuvssut&count_private=true&show_icons=true&theme=radical)
-
-## My Most used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuvssut&show_icons=true&theme=radical)
+        </td>
+        <td style="vertical-align:text-top;padding: 5px;">
+        	<h3>My Interests</h3>
+            <hr>
+            <p style="display: flex;flex-wrap: wrap; justify-content:center; align-items:center;">
+            	<span>Web development&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+                <span>Competitive Programming&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+                <span>Open Source Contribution</span> 
+            </p>
+        </td>
+    </tr>
+    
+</tbody>
+</table>
+<div style="display: flex;flex-wrap: wrap;justify-content: space-around;"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=ashuvssut&amp;count_private=true&amp;show_icons=true&amp;theme=radical" style="margin: 5px;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuvssut&amp;show_icons=true&amp;theme=radical" style="margin: 5px;"/>
+    </div>
 
 ## Contact
 
@@ -43,8 +54,7 @@ Web development | Competitive Programming | Open Source Contribution
   <img align="left" alt="Ashutosh Khanduala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br/>
-<!--
-------------------------
 
+<!--
 **Visitors Count (Since December 2020)**  
 ![VisitorCount](https://profile-counter.glitch.me/{ashuvssut}/count.svg)-->
