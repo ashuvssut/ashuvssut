@@ -1,0 +1,18 @@
+table {
+    text-align: center;
+}
+
+td {
+    vertical-align: text-top;
+    padding: 5px;
+}
+
+div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+img {
+    margin: 5px;
+}
