@@ -10,11 +10,11 @@ I am an Electronics undergraduate student at Veer Surendra Sai University of Tec
 
 ## Technical Skills
 
-<img src="https://img.shields.io/badge/-React-%23212121?style=flat&logo=React">
+
 <!-- <img src="https://img.shields.io/badge/-django-black?style=flat&logo=django">  -->
 <!-- <img src="https://img.shields.io/badge/-Firebase-black?style=flat&logo=Firebase">  <img src="https://img.shields.io/badge/-AWS-orange"> <br /> -->
 <!-- <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> -->
-<img src="https://img.shields.io/badge/-NodeJS-black?style=flat&logo=node.js"> <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongoDB"> <br />
+<img src="https://img.shields.io/badge/-React-%23212121?style=flat&logo=React"> <img src="https://img.shields.io/badge/-NodeJS-black?style=flat&logo=node.js"><br />
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <br />
 <img src="https://img.shields.io/badge/-SASS-white?style=flat&logo=Sass"> <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> 
 <!-- <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br /> -->
