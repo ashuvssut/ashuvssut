@@ -10,7 +10,7 @@ I am an Electronics undergraduate student at Veer Surendra Sai University of Tec
 
 ## Technical Skills
 
-<!-- <img src="https://img.shields.io/badge/-React-%23212121?style=flat&logo=React">  -->
+<img src="https://img.shields.io/badge/-React-%23212121?style=flat&logo=React">
 <!-- <img src="https://img.shields.io/badge/-django-black?style=flat&logo=django">  -->
 <!-- <img src="https://img.shields.io/badge/-Firebase-black?style=flat&logo=Firebase">  <img src="https://img.shields.io/badge/-AWS-orange"> <br /> -->
 <!-- <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> -->
