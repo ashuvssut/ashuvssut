@@ -38,9 +38,8 @@ Web development | Competitive Programming | Open Source Contribution
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuvssut&show_icons=true&theme=radical)
 -->
-<br/>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ashuvssut&show_icons=true&theme=onedark&include_all_commits=true" />
-<br/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuvssut&show_icons=true&theme=onedark&layout=compact" />
 
 
