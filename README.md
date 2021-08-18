@@ -26,7 +26,7 @@
 
 ## My Interests
 
-Web development | Open Source Contribution | Competitive Programming
+Web development (MERNG) | Open Source | DSA
 
 ## Contact
 
