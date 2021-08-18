@@ -27,7 +27,7 @@
 
 ## My Interests
 
-Web development (MERNG) | Open Source | DSA
+MERNG | Open Source | DSA
 
 ## Contact
 
