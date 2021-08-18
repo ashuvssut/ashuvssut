@@ -9,6 +9,7 @@
 - I am an Electronics undergraduate student at Veer Surendra Sai University of Technology, Burla. 
 - I ❤ contributing to open source.
 - I work on web development projects.
+- I would love to talk about web dev and crypto-trading👋
 <!-- 
 - I am a competitive programmer
 - I have learnt the hands signs of Katon goukakyuu no jutsu (Naruto fan😁) -->
