@@ -6,10 +6,11 @@
 
 ## About me 🧑
 
-- I am an Electronics undergraduate student at Veer Surendra Sai University of Technology, Burla. 
+- React | React Native Developer.
 - I ❤ contributing to open source.
-- I work on web development projects.
+- I work on web and android development projects. 
 - I would love to talk about Web Dev and Open Source👋
+- Electronics undergraduate student at Veer Surendra Sai University of Technology, Burla. 
 - **My Interests** :- MERNG | Open Source | DSA 
 - fan of ⚡ emoji
 <!-- 
