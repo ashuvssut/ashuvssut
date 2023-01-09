@@ -37,19 +37,19 @@
 
 <a>[<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/12872199/ashuvssut?tab=profile)</a> 
 <a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/ashuvssut)</a> <a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ashuvssut/)
-
+<!--
 ## My Stats
-
+-->
 <!--
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashuvssut&count_private=true&show_icons=true&theme=radical)
 -->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuvssut&show_icons=true&theme=radical)
 -->
-
+<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ashuvssut&show_icons=true&theme=onedark&include_all_commits=true" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuvssut&show_icons=true&theme=onedark&layout=compact" />
-
+-->
 
   
 <!--
