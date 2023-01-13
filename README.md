@@ -11,7 +11,7 @@
 - I work on web and android development projects. 
 - I would love to talk about Web Dev and Open Source👋
 - Electronics undergraduate student at Veer Surendra Sai University of Technology, Burla. 
-- **My Interests** :- MERNG | Open Source | DSA 
+- **My Interests** :- MERNG | Open Source | Developer stuff
 - fan of ⚡ emoji
 <!-- 
 - I am a competitive programmer
