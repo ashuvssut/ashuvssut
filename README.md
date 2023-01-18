@@ -7,7 +7,7 @@
 ## About me 🧑
 
 - React | React Native Developer.
-- I ❤ contributing to open source.
+- Building cool stuff right now | ❤ contributing to open source.
 - I work on web and android development projects. 
 - I would love to talk about Web Dev and Open Source👋
 - Electronics undergraduate student at Veer Surendra Sai University of Technology, Burla. 
