@@ -1,11 +1,11 @@
 # Hey there! I'm Ashutosh 👋
-
+<!-- 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/ashuvssut)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ashuvssut)
-<!-- <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ashuvssut&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/> -->
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=ashuvssut&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/> 
 
 ## About me 🧑
-
+-->
 - React | React Native Developer.
 - Building cool stuff right now | ❤ contributing to open source.
 - I work on web and android development projects. 
@@ -17,7 +17,7 @@
 - I am a competitive programmer
 - I have learnt the hands signs of Katon goukakyuu no jutsu (Naruto fan😁) -->
 
-## Technical Skills
+## I Build cool stuff with
 
 
 <!-- <img src="https://img.shields.io/badge/-django-black?style=flat&logo=django">  -->
