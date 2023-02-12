@@ -1,4 +1,4 @@
-# Hey there! I'm Ashutosh 👋
+# I'm Ashutosh 👋
 <!-- 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/ashuvssut)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ashuvssut)
@@ -7,12 +7,12 @@
 ## About me 🧑
 -->
 - React | React Native Developer.
-- Building cool stuff right now | ❤ contributing to open source.
-- I work on web and android development projects. 
-- I would love to talk about Web Dev and Open Source👋
+- Building cool stuff right now.
+- I work on web and android development projects.
 - Electronics undergraduate student at Veer Surendra Sai University of Technology, Burla. 
-- **My Interests** :- MERNG | Open Source | Developer stuff
+- **My Interests** :- MERN + tRPC | Open Source | Developer stuff
 - fan of ⚡ emoji
+- [Otaku](https://myanimelist.net/animelist/ashuvssut)
 <!-- 
 - I am a competitive programmer
 - I have learnt the hands signs of Katon goukakyuu no jutsu (Naruto fan😁) -->
