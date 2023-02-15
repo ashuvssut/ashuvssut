@@ -30,7 +30,7 @@
 <!-- <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> -->
 <!-- <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br /> -->
 
-## Socials
+## Find me
 
 <!-- <a>[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/918114727882)</a> -->
 <!-- <a>[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:ashu.khanduala@gmail.com)</a> --> 
