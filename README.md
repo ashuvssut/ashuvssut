@@ -12,7 +12,7 @@
 - Electronics undergraduate student at Veer Surendra Sai University of Technology, Burla. 
 - **My Interests** :- MERN + tRPC | Open Source | Developer stuff
 - fan of ⚡ emoji
-- [Otaku](https://myanimelist.net/animelist/ashuvssut)
+- [Otaku](https://myanimelist.net/animelist/unpocolocoMe)
 <!-- 
 - I am a competitive programmer
 - I have learnt the hands signs of Katon goukakyuu no jutsu (Naruto fan😁) -->
