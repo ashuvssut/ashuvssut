@@ -11,7 +11,7 @@
 - I work on web and android development projects.
 - Electronics undergraduate student at Veer Surendra Sai University of Technology, Burla. 
 - **My Interests** :- MERN + tRPC | Open Source | Developer stuff
-- [Otaku](https://myanimelist.net/animelist/unpocolocoMe)
+- [Otaku](https://myanimelist.net/animelist/unpocolocoMe?status=2)
 <!-- 
 - fan of ⚡ emoji
 - I am a competitive programmer
