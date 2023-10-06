@@ -7,8 +7,9 @@
 ## About me 🧑
 -->
 - React | React Native Developer.
+- I write Blogs on Technical stuff that I love https://ashuvssut.hashnode.dev/
 - Building cool stuff right now.
-- I work on web and android development projects.
+- I work on web and android development projects involving React.
 - Electronics undergraduate student at Veer Surendra Sai University of Technology, Burla. 
 - **My Interests** :- MERN + tRPC | Open Source | Developer stuff
 - [Otaku](https://myanimelist.net/animelist/unpocolocoMe?status=2)
