@@ -32,7 +32,7 @@ TypeScript is my go-to language. It helps me write awesome and beautiful self-do
 <!-- <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> -->
 <!-- <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br /> -->
 
-## I can Build not soo cool stuff with
+## I can Build not soo cool stuffs with
 ![JavaScript](https://img.shields.io/badge/javascript-%23F0DB4F.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/-Python%203-%23FEFEFE?style=for-the-badge&logo=python) ![Flutter](https://img.shields.io/badge/flutter-%2360C9F8.svg?style=for-the-badge&logo=flutter&logoColor=white)+ whatever you throw at me
 
 ## Find me
