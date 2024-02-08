@@ -12,7 +12,7 @@
   - I sometimes contribute to OSS libraries that I use in my projects. Or, sometimes I just fork them to tweak it a bit to my liking
   - Trying to build useful things from scratch [@Stacknide](https://github.com/stacknide)
 - I work on web and android development projects involving React.
-- Electronics undergraduate student at Veer Surendra Sai University of Technology, Burla. 
+- Electronics graduate from Veer Surendra Sai University of Technology, Burla. 
 - **My Interests** :- MERN + tRPC | Open Source | Developer stuff
 - [Otaku](https://myanimelist.net/animelist/unpocolocoMe?status=2)
 <!-- 
