@@ -14,7 +14,8 @@
 - I work on web and android development projects involving React.
 - Electronics graduate from Veer Surendra Sai University of Technology, Burla. 
 - **My Interests** :- MERN + tRPC | Open Source | Developer stuff
-- [Otaku](https://myanimelist.net/animelist/unpocolocoMe?status=2)
+- <details><summary><a href="https://myanimelist.net/animelist/unpocolocoMe">Otaku</a></summary> Link didn't work? Put this in you address bar myanimelist.net/profile/unpocolocoMe</details>
+
 <!-- 
 - fan of ⚡ emoji
 - I am a competitive programmer
