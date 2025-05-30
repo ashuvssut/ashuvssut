@@ -23,7 +23,7 @@
 
 ## I Build cool stuff with
 
-TypeScript is my go-to language. It helps me write awesome and beautiful self-documenting, maintainable code🚀
+TypeScript is my go-to language.
 
 <!-- <img src="https://img.shields.io/badge/-django-black?style=flat&logo=django">  -->
 
